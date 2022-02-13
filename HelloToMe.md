@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammadSaifullahACDA
-- 👀 I’m interested in how big things work like google, Amazoz and how hackers get into our system
-- 🌱 I’m currently learning data strutures and algorithms
+- 👀 I’m interested in how big things work like google, Amazon and how hackers get into our system
+- 🌱 I’m currently learning data strutures ,algorithms and try to create new data structures
 - 💞️ I’m looking to collaborate on machine learning, data structures and algorithms
 - 📫 How to reach me through emial
 
